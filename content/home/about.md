@@ -12,10 +12,10 @@ After some years I saved up enough money and decided to attend Towson University
 
 I can't thank Towson University enough for my undergraduate experience. During my time there I was fortunate enough to win some scholarships, publish some papers and work closely with several of the professors from the computer science and mathematics departments. For any student reading this, just because you don't go to your state's flagship school or an Ivy doesn't mean you can't get an exceptional education.
 
-Since graduating I have been working as a Software Engineer for [Next Century Corporation](https://www.baltimoresun.com/business/bs-bz-tw-midsize-one-20191206-irc4cpw75zdkdjvbf2t6qidmwq-story.html) in the research space of the defense industry, and pursuing a Masters degree at Johns Hopkins University.
+Since graduating I have been working as a Software Engineer for [Next Century Corporation](https://www.baltimoresun.com/business/bs-bz-tw-midsize-one-20191206-irc4cpw75zdkdjvbf2t6qidmwq-story.html), in the research space of the defense industry, and pursuing a Masters degree at Johns Hopkins University.
 
 I consider myself a 'full-stack' software engineer even though that term has become very tired. My main interests are Vue, Node, Golang, Docker, Kubernetes and anything to do with container technology.
 
 When I'm not working I'm usually outside rock climbing, working on personal projects or at Bethany Beach with friends and family.
 
-Feel free to drop me a message on LinkedIn or Github if you would like to know more!
+Feel free to drop me a message on LinkedIn or shoot me an email if you would like to know more!

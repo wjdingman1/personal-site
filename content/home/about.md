@@ -14,8 +14,8 @@ I can't thank Towson University enough for my undergraduate experience. During m
 
 Since graduating I have been working as a Software Engineer for [Next Century Corporation](https://www.baltimoresun.com/business/bs-bz-tw-midsize-one-20191206-irc4cpw75zdkdjvbf2t6qidmwq-story.html), in the research space of the defense industry, and pursuing a Masters degree at Johns Hopkins University.
 
-I consider myself a 'full-stack' software engineer even though that term has become very tired. My main interests are Vue, Node, Golang, Docker, Kubernetes and anything to do with container technology.
+I consider myself a 'full-stack' software engineer even though that term has become very tired lately. My main interests are Vue, Node, Golang, Docker, Kubernetes, Helm, Ansible and anything to do with container technology.
 
-When I'm not working I'm usually outside rock climbing, working on personal projects or at Bethany Beach with friends and family.
+When I'm not working I'm usually outside rock climbing, tinkering with new tech or at Bethany Beach with friends and family.
 
 Feel free to drop me a message on LinkedIn or shoot me an email if you would like to know more!

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Wes Dingman</title>
-    <link>http://localhost/series/</link>
+    <link>https://wdingman.netlify.app/series/</link>
     <description>Recent content in Series on Wes Dingman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://wdingman.netlify.app/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

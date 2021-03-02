@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wes Dingman</title>
+    <link>http://localhost/</link>
+    <description>Recent content on Wes Dingman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Mar 2021 17:23:43 -0500</lastBuildDate><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Medifor</title>
+      <link>http://localhost/projects/medifor/</link>
+      <pubDate>Mon, 01 Mar 2021 17:11:47 -0500</pubDate>
+      
+      <guid>http://localhost/projects/medifor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost/projects/research/</link>
+      <pubDate>Mon, 01 Mar 2021 17:16:37 -0500</pubDate>
+      
+      <guid>http://localhost/projects/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost/projects/teaching/</link>
+      <pubDate>Mon, 01 Mar 2021 17:23:43 -0500</pubDate>
+      
+      <guid>http://localhost/projects/teaching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

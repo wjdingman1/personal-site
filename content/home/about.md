@@ -4,11 +4,11 @@ image: "me.jpg"
 weight: 8
 ---
 
-Thanks for taking the time to read this, my hope is that gives you a more personal insight than just my resume!
+Thanks for taking the time to read this, my hope is that this gives you a more personal insight than just my resume!
 
-I'm currently living in Columbia, MD and have been a MD native all my life. After graduating highschool I attended UMD as a physics major and quickly found out at 17 that I was not ready for the college experience just yet. I elected to take a couple years off school and work, some of the jobs I had were: drycleaning, dog kennel assistant, radiator salesman and many others.
+I'm currently living in Columbia, MD and have been a MD resident all my life. After graduating highschool I attended UMD as a physics major and quickly found out at 17 that I was not ready for the college experience just yet. I elected to take a couple years off school and work, some of the jobs I had were: drycleaning, dog kennel assistant, radiator salesman and many others.
 
-After some years I saved up enough money and decided to attend Towson University as a business/pre-law major. My introduction to programming came through an elective CS course that I took to fulfill one of my graduation requirements and after the first week of that class I went to the registrars office and declared a new major of computer science.
+After some years I saved up enough money and decided to attend Towson University as a Business/Pre-Law major. My introduction to programming came through an elective CS course that I took to fulfill one of my graduation requirements...after the first week of that course I was no longer interested in law, I went to the registrars office and switched my major to Computer Science.
 
 I can't thank Towson University enough for my undergraduate experience. During my time there I was fortunate enough to win some scholarships, publish some papers and work closely with several of the professors from the computer science and mathematics departments. For any student reading this, just because you don't go to your state's flagship school or an Ivy doesn't mean you can't get an exceptional education.
 

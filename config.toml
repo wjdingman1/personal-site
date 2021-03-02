@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://wdingman.netlify.app"
 languageCode = "en-us"
 title = "Wes Dingman"
 theme = "introduction"

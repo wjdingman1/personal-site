@@ -4,7 +4,7 @@ image: "me.jpg"
 weight: 8
 ---
 
-Thanks for taking the time to read this, my hope is that this gives you a more personal insight than just my resume!
+Thanks for taking the time to read this, my hope is that this gives you a more personal insight than just my [resume](resume.pdf)!
 
 I'm currently living in Columbia, MD and have been a MD resident all my life. After graduating highschool, I attended UMD as a physics major and quickly found out at 17 I was not ready for the college experience just yet. I elected to take a couple years off school and work; some of the jobs I had were: drycleaning, dog kennel assistant, radiator salesman and many others.
 

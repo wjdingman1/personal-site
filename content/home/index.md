@@ -3,4 +3,4 @@ title: "Hi, I'm Wes"
 headless: true
 ---
 
-Software Engineer
+I'm a software engineer

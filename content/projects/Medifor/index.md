@@ -6,6 +6,5 @@ external_link: "https://github.com/mediaforensics/medifor-ui" # Optional externa
 resources:
   - src: medifor.png
     params:
-      weight: -100 # Optional weighting for a specific image in this project folder
-draft: true
+      weight: 1 # Optional weighting for a specific image in this project folder
 ---

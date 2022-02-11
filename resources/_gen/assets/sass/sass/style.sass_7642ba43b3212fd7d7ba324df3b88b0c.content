@@ -258,7 +258,7 @@ a {
     color: #000000; }
 
 code {
-  background-color: #dbdbdb;
+  background-color: transparent;
   color: #00b8d4;
   font-size: 0.875em;
   font-weight: normal;
@@ -8892,9 +8892,6 @@ details[open] summary {
 .hidden {
   display: none; }
 
-pre {
-  background-color: #dbdbdb !important; }
-
 .img-responsive {
   border-radius: 5px;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); }
@@ -9105,9 +9102,6 @@ pre {
   .markdown blockquote blockquote p:last-child {
     margin-bottom: 0; }
 
-.markdown code {
-  background-color: #dbdbdb; }
-
 .markdown table {
   margin: 2em 0 2em 0;
   width: 100%;
@@ -9128,7 +9122,7 @@ pre {
 .markdown tbody tr:nth-child(even) th {
   background-color: #f7f7f7; }
 
-.markdown pre {
+.markdown code, .markdown pre {
   border-radius: 3px; }
 
 .markdown img {

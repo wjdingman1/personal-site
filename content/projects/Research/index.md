@@ -6,6 +6,5 @@ external_link: "https://www.atlantis-press.com/journals/ijndc/125913574" # Optio
 resources:
   - src: research.png
     params:
-      weight: -100 # Optional weighting for a specific image in this project folder
-draft: true
+      weight: 3 # Optional weighting for a specific image in this project folder
 ---

@@ -4,7 +4,7 @@ image: "me.jpg"
 weight: 8
 ---
 
-Thanks for taking the time to read this; my hope is that this gives you more personal insight than just my [resume](Resume-Spring22.pdf)!
+Thanks for taking the time to read this; my hope is that this gives you more personal insight than just my [resume](Resume-Spring22-updated.pdf)!
 
 I'm currently living in Columbia, MD and have been an MD resident all my life. Like many others, I had a non-linear path to software engineering which included: dropping out, working odd jobs, reenrolling, and several changes to my major.
 

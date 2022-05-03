@@ -1,4 +1,4 @@
 # personal-site
 Personal site built with Hugo.
 
-[wjdingman.com](wjdingman.com)
+[wjdingman.com](https://wjdingman.com)

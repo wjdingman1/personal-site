@@ -1,7 +1,7 @@
 ---
 title: "About"
 image: "profile-photo.png"
-weight: 8
+weight: 6
 ---
 
 Thanks for taking the time to read this; my hope is that this gives you more personal insight than just my [resume](Resume-Spring22-updated.pdf)!
